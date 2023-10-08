@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
 
 # 📝 Study
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
 
 
 # 💯 Coding Test
