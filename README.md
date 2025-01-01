@@ -39,6 +39,24 @@
                     <img src="https://github.com/user-attachments/assets/d9d3f9bd-58f3-442c-8cf1-6363dff7e6a2"/>
                 </a>
             </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                <a href="https://github.com/Red-Opera/Legacy_of_Auras">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=Legacy_of_Auras&theme=react&border_color=61dafb&border_radius=10"/>
+                </a>
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                <a href="https://github.com/Red-Opera/K-Project">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=K-Project&theme=react&border_color=61dafb&border_radius=10"/>
+                </a>
+                </div>
+            </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://github.com/Red-Opera/VRDefense">
                     <img src="https://github.com/user-attachments/assets/83ea3733-0664-44c1-8686-bbc17cc59b78"/>
@@ -46,20 +64,6 @@
             </td>
         </tr>
         <tr>
-            <td>
-                <div align="center">
-                <a href="https://github.com/Red-Opera/K-Project">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=Legacy_of_Auras&theme=react&border_color=61dafb&border_radius=10"/>
-                </a>
-                </div>
-            </td>
-            <td>
-                <div align="center">
-                <a href="https://github.com/Red-Opera/Legacy_of_Auras">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=K-Project&theme=react&border_color=61dafb&border_radius=10"/>
-                </a>
-                </div>
-            </td>
             <td>
                 <div align="center">
                 <a href="https://github.com/Red-Opera/VRDefense">
@@ -79,9 +83,6 @@
                 <a href="https://github.com/Red-Opera/EraOfDreams_1950sSimulation">
                     <img src="https://github.com/user-attachments/assets/088e1bf3-3d49-4ec5-a19d-6f04e11be56a"/>
                 </a>
-            </td>
-            <td>
-                <img src="https://github.com/user-attachments/assets/e5f178d8-83db-4b8c-aaaa-8947cf6030eb"/>
             </td>
             <td>
                 <img src="https://github.com/user-attachments/assets/e5f178d8-83db-4b8c-aaaa-8947cf6030eb"/>
@@ -113,9 +114,6 @@
                     <img src="https://github.com/user-attachments/assets/6c6f4308-f132-4858-ad44-db97b4d3e047"/>
                 </a>
             </td>
-            <td>
-                <img src="https://github.com/user-attachments/assets/e5f178d8-83db-4b8c-aaaa-8947cf6030eb"/>
-            </td>
         </tr>
         <tr>
             <td>
@@ -144,9 +142,6 @@
                 <a href="https://github.com/Red-Opera/ChatApp">
                     <img src="https://github.com/user-attachments/assets/62aca0fe-f370-4f4e-a352-8f77e54c2672"/>
                 </a>
-            </td>
-            <td>
-                <img src="https://github.com/user-attachments/assets/e5f178d8-83db-4b8c-aaaa-8947cf6030eb"/>
             </td>
             <td>
                 <img src="https://github.com/user-attachments/assets/e5f178d8-83db-4b8c-aaaa-8947cf6030eb"/>
