@@ -1,6 +1,6 @@
 <details open>
     <summary><h1>📦 Tech Stack</h1></summary>
-    <table width="100%"  padding="0">
+    <table width="100%" padding="0">
         <tr>
             <td width="50%" valign="top">
                 <h1>📃 Languages</h1>
@@ -191,13 +191,10 @@
             <td>
                 <div align="center">
                     <a href="https://github.com/Red-Opera/ChatApp">
-                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=&theme=react&border_color=61dafb&border_radius=10"/>
+                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=ChatApp&theme=react&border_color=61dafa&border_radius=10"/>
                     </a>
                 </div>
             </td>
         </tr>
     </table>
 </details>
-
-
-
