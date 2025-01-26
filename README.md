@@ -91,7 +91,7 @@
             <td>
                 <div align="center">
                 <a href="https://github.com/Red-Opera/K-Project">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=K-Project&theme=react&border_color=61dafb&border_radius=10"/>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=K-Project&theme=react&border_color=61dafa&border_radius=10"/>
                 </a>
                 </div>
             </td>
@@ -107,7 +107,7 @@
             <td>
                 <div align="center">
                 <a href="https://github.com/Red-Opera/VRDefense">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=VRDefense&theme=react&border_color=61dafb&border_radius=10"/>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=VRDefense&theme=react&border_color=61dafa&border_radius=10"/>
                 </a>
                 </div>
             </td>
@@ -184,15 +184,40 @@
                 </a>
             </td>
             <td>
-                <img src="https://github.com/user-attachments/assets/e5f178d8-83db-4b8c-aaaa-8947cf6030eb"/>
+                <a href="https://github.com/Red-Opera/AlgoSort-Lab">
+                    <img src="https://github.com/user-attachments/assets/c2d71a7e-26d3-4000-aeb5-fdfb72b468cf"/>
+                </a>
             </td>
         </tr>
         <tr>
             <td>
                 <div align="center">
                     <a href="https://github.com/Red-Opera/ChatApp">
-                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=ChatApp&theme=react&border_color=61dafa&border_radius=10"/>
+                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=ChatApp&theme=react&border_color=61dafb&border_radius=10"/>
                     </a>
+                </div>
+            </td>
+            <td>
+                <div align="center">
+                    <a href="https://github.com/Red-Opera/AlgoSort-Lab">
+                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=AlgoSort-Lab&theme=react&border_color=61dafb&border_radius=10"/>
+                    </a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/Red-Opera/Console-Maze-Game">
+                    <img src="https://github.com/user-attachments/assets/cab81e38-a20a-4eba-95ae-ae05ee33100f"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div align="center">
+                <a href="https://github.com/Red-Opera/Console-Maze-Game">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=Console-Maze-Game&theme=react&border_color=61dafb&border_radius=10"/>
+                </a>
                 </div>
             </td>
         </tr>
