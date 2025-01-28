@@ -184,8 +184,8 @@
                 </a>
             </td>
             <td>
-                <a href="https://github.com/Red-Opera/AlgoSort-Lab">
-                    <img src="https://github.com/user-attachments/assets/c2d71a7e-26d3-4000-aeb5-fdfb72b468cf"/>
+                <a href="https://github.com/Red-Opera/Snake-Game">
+                    <img src="https://github.com/user-attachments/assets/0cf46499-1e32-44c0-9acc-890c4006c74f"/>
                 </a>
             </td>
         </tr>
@@ -199,20 +199,32 @@
             </td>
             <td>
                 <div align="center">
-                    <a href="https://github.com/Red-Opera/AlgoSort-Lab">
-                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=AlgoSort-Lab&theme=react&border_color=61dafb&border_radius=10"/>
+                    <a href="https://github.com/Red-Opera/Snake-Game">
+                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=Snake-Game&theme=react&border_color=61dafb&border_radius=10"/>
                     </a>
                 </div>
             </td>
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/Red-Opera/AlgoSort-Lab">
+                    <img src="https://github.com/user-attachments/assets/c2d71a7e-26d3-4000-aeb5-fdfb72b468cf"/>
+                </a>
+            </td>
+            <td>
                 <a href="https://github.com/Red-Opera/Console-Maze-Game">
-                    <img src="https://github.com/user-attachments/assets/cab81e38-a20a-4eba-95ae-ae05ee33100f"/>
+                    <img src="https://github.com/user-attachments/assets/d5b8bbb8-aa77-448d-a3db-9181a2c7dde0"/>
                 </a>
             </td>
         </tr>
         <tr>
+            <td>
+                <div align="center">
+                    <a href="https://github.com/Red-Opera/AlgoSort-Lab">
+                        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=AlgoSort-Lab&theme=react&border_color=61dafb&border_radius=10"/>
+                    </a>
+                </div>
+            </td>
             <td>
                 <div align="center">
                 <a href="https://github.com/Red-Opera/Console-Maze-Game">
