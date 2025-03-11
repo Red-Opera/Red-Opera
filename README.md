@@ -27,6 +27,7 @@
                 <h1>📝 Study</h1>
                 <ul>
                     <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
+                    <img src="https://img.shields.io/badge/Assembly ARM-0091BD?logo=arm&logoColor=white"/>
                 </ul>
             </td>
             <td width="50%" valign="top">
@@ -145,17 +146,24 @@
     <table>
         <tr>
             <td>
+                <a href="https://github.com/Red-Opera/DirectX_GameEngine">
+                    <img src="https://github.com/user-attachments/assets/0f5f713a-4c01-4237-bd8f-869fcb69c85b"/>
+                </a>
+            </td>
+            <td>
                 <a href="https://github.com/Red-Opera/D2DGame">
                     <img src="https://github.com/user-attachments/assets/eed22dac-aaa5-4f3b-90d3-b122df519288"/>
                 </a>
             </td>
-            <td>
-                <a href="https://github.com/Red-Opera/Sokoban">
-                    <img src="https://github.com/user-attachments/assets/6c6f4308-f132-4858-ad44-db97b4d3e047"/>
-                </a>
-            </td>
         </tr>
         <tr>
+            <td>
+                <div align="center">
+                <a href="https://github.com/Red-Opera/DirectX_GameEngine">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Opera&repo=DirectX_GameEngine&theme=react&border_color=61dafb&border_radius=10"/>
+                </a>
+                </div>
+            </td>
             <td>
                 <div align="center">
                 <a href="https://github.com/Red-Opera/D2DGame">
@@ -163,6 +171,15 @@
                 </a>
                 </div>
             </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/Red-Opera/Sokoban">
+                    <img src="https://github.com/user-attachments/assets/6c6f4308-f132-4858-ad44-db97b4d3e047"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td>
                 <div align="center">
                 <a href="https://github.com/Red-Opera/Sokoban">
