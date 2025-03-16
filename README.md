@@ -122,7 +122,7 @@
         <tr>
             <td>
                 <a href="https://github.com/Red-Opera/EraOfDreams_1950sSimulation">
-                    <img src="https://github.com/user-attachments/assets/088e1bf3-3d49-4ec5-a19d-6f04e11be56a"/>
+                    <img src="https://github.com/user-attachments/assets/371df920-064a-4c17-8e0f-9d09d2497189"/>
                 </a>
             </td>
             <td>
